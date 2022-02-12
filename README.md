@@ -1,4 +1,4 @@
-snipMate & UltiSnip Snippets
+(slightly modified) snipMate & UltiSnip Snippets
 ============================
 
 [![Build Status](https://travis-ci.org/honza/vim-snippets.svg)](https://travis-ci.org/honza/vim-snippets)
